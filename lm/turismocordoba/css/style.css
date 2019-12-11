@@ -1,0 +1,32 @@
+﻿<!DOCKTYPE html>
+<html lang="es">
+    <head>
+
+		<!--link rel="stylesheet" href="estilos.css"-->
+    <head>
+    <body>
+        <style>
+            .myclass(
+                text-align:center;
+                font-size:5vw
+                padding:10vw;
+                border:solid;
+                background:repeating-radial-gradient(grey 20%,white 40%))
+        </style>
+        <header>
+        </header>
+        <nav>
+		 <a href=</a>
+        </nav>
+        <main>
+            <section>
+                <article>
+                </article>
+            </section>
+            <aside>
+            </aside>
+        </main>
+        <footer>
+            &copy/: Todos los derechos reservados ....
+        </footer>
+</body>
