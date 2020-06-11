@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Github Sergio Vera Jurado</title>
+  <link>https://sergiovj2001.github.io/</link>
+  <description>Pagina principal github</description>
+   <item>
+    <title>Lenguaje de marcas</title>
+    <link>https://sergiovj2001.github.io/lm/index.html</link>
+    <description>github lenguaje de marcas</description>
+  </item>
+  <item>
+		<title>ejercicios tema 4</title>
+    <link>https://sergiovj2001.github.io/lm/tema4/index.html</link>
+    <description>Ejercicios tema 4</description>
+		</item>
+	</channel>
+</rss>

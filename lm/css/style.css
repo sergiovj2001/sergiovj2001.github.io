@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    font-family: monospace;
+    background-image: url(.././img/fondo.jfif);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: brown;
+    margin: 0;
+    padding: 0;
+}
+a {
+    font-size:25px;
+    background-color:aliceblue
+}
+
+header {
+    font-size: 25px;
+    background-color:white
+}
