@@ -1,18 +1,31 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-<channel>
-  <title>Github Sergio Vera Jurado</title>
-  <link>https://sergiovj2001.github.io/</link>
-  <description>Pagina principal github</description>
-   <item>
-    <title>Lenguaje de marcas</title>
-    <link>https://sergiovj2001.github.io/lm/index.html</link>
-    <description>github lenguaje de marcas</description>
-  </item>
-  <item>
-		<title>ejercicios tema 4</title>
-    <link>https://sergiovj2001.github.io/lm/tema4/index.html</link>
-    <description>Ejercicios tema 4</description>
-		</item>
-	</channel>
+    <channel>
+        <title>Sergio Vera Jurado ejercicios Lenguaje de Marcas</title>
+            <item>
+                <title>Implementación de canal RSS</title>
+                <link>https://sergiovj2001.github.io/lm/index.html</link>
+                <description>Canal RSS</description>
+            </item>
+            <item>
+                <title>Tema 3</title>
+                <link>https://sergiovj2001.github.io/lm/tema3/index.html</link>
+                <description>Tema 3</description>
+            </item>
+            <item>
+                <title>Tema 4</title>
+                <link>https://sergiovj2001.github.io/lm/tema4/index.html</link>
+                <description>Tema 4</description>
+            </item>
+            <item>
+                <title>Turismo córdoba</title>
+                <link>https://sergiovj2001.github.io/lm/turismocordoba/index.html</link>
+                <description>Turismo Córdoba</description>
+            </item>
+            <item>
+                <title>ERP</title>
+                <link>https://sergiovj2001.github.io/lm/ERP/index.html</link>
+                <description>ERP</description>
+            </item>
+    </channel>
 </rss>
